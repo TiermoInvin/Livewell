@@ -3,12 +3,14 @@ Workouts should be like Strong because I think it's pretty ubiquitous and a gene
 Still need to draw it out.
 
 # Initial opening:
-- Name
-- Age
-- Gender/Sex
+1. Name
+2. Age
+3. Gender/Sex
   - if Intersex, need to research more but I assume training will depend on gender and if hormones/whatever may affect your training.
-- Experience Level
-- Goals
+4. Competency Level
+  - Knowledge and experience with exercises I guess is the difference
+5. Progression Level
+6. Goals
   - Muscle Growth
   - Strength
       - Powerlifting
@@ -37,9 +39,10 @@ Still need to draw it out.
                - Parkour
                - Rock Climbing
                - Bouldering
-- Equipment Available to you
-- Workout Frequency + Days Available
-- Desired Time Spent
+7. Equipment Available to you
+8. Workout Frequency + Days Available
+9. Desired Time Spent
+10. Save on device, Self-host, or Sync with Cloud Provider
 
 # Pages
 ## Page Template
