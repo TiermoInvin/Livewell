@@ -1,5 +1,5 @@
 # Livewell (no code yet, just ideas)
-FLOSS fitness (meals, workouts, and sleep) teacher, tracker, planner, and analyser. 
+FLOSS, self-hostable, and privacy-respecting fitness (meals, workouts, and sleep) teacher, tracker, planner, and analyser. 
 
 Name subject to change, but this is the best I could come up with.
 Trying to make an app that helps improve people's health through fitness, sleep, and diet. Maybe even stress/mood.
