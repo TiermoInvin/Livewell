@@ -1,4 +1,4 @@
-# Livewell (name subject to change)
+# Livewell (name subject to change, no code yet, just ideas)
 FLOSS fitness (meals, workouts, and sleep) teacher, tracker, planner, and analyser. 
 
 Trying to make an app that helps improve people's health through fitness, sleep, and diet. Maybe even stress/mood.
