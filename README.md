@@ -17,6 +17,7 @@ Pulling inspiration from Macrofactor, Strong, MyoAdapt, and Strava.
 - Import from Strong, Strava, Macrofactor, etc.
 - Export in plain-text (Markdown) and .csv or new FOSS file format specifically for fitness.
 - Exercise library with videos/diagrams and concise technique cues with explainations.
+- Calisthenics Strength Progression, skill tree style.
 
 # LiftLog
 - I want to suggest these changes to there as well, but this exists because Liam, the maintainer, doesn't intend to make it track diet as well, and that's completely understandable. This is highkey unrealistic.
