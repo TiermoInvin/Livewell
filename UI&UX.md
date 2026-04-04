@@ -14,8 +14,10 @@ Still need to draw it out.
   - Muscle Growth
   - Strength
       - Powerlifting
-      - Streetlifting
       - Olympic Weightlifting
+      - Streetlifting
+      - Calisthenics
+      - Gymnastics
       - Strongman
    - Both
        - Powerbuilding
