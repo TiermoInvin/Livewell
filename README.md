@@ -8,7 +8,7 @@ Trying to make an app that helps improve people's health through fitness, sleep,
 Our time is one of the most important resources and time is not promised, however, we can take steps to improving our time on this Earth as well as prolong it.
 
 All-in-one app because I'm not a CS student and if you shoot for the stars, you might land on the moon. Recipe for disaster, maybe, and very conscious of feature creep likely going to be a problem with this.
-Hopefully going to work on phone-focused for now but hopefully going to work on the web as well as desktops.
+Phone-focused for now but hopefully going to work on the web as well as desktops.
 
 # Feature Ideas
 - Backwards compatibility to older, unsupported devices so that people can make use of - what would other wise be - e-waste.
@@ -24,4 +24,7 @@ Hopefully going to work on phone-focused for now but hopefully going to work on 
 - I want to suggest these changes to there as well, but this exists because Liam, the maintainer, doesn't intend to make it track running or diet as well, and that's completely understandable. This is highkey unrealistic.
 
 # Macrofactor
-- They don't even combine functions, the Workout app is separate from the Diet App. Same with Renaissance Periodization.
+- Even they don't combine functions, the Workout app is separate from the Diet App. Same with Renaissance Periodization.
+
+# Distant Future
+- Make a nonprofit foundation for this.
